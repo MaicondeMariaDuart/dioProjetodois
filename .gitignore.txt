@@ -1,0 +1,96 @@
+# Criado por https://www.toptal.com/developers/gitignore/api/java,eclipse
+# Edite em https://www.toptal.com/developers/gitignore?templates=java,eclipse
+
+###Eclipse###
+.metadados
+caixa/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+propriedades locais
+.configurações/
+.loadpath
+.recomendadores
+
+# Construtores de ferramentas externas
+.externalToolBuilders/
+
+# "Configurações de inicialização do Eclipse" armazenadas localmente
+*.lançar
+
+# Específico do PyDev (IDE Python para Eclipse)
+*.pydevprojeto
+
+# Específico de CDT (ferramentas de desenvolvimento C/C++)
+.cprojeto
+
+# CDT- ferramentas automáticas
+.autotools
+
+# Processador de anotação Java (APT)
+.factorypath
+
+# Específico para PDT (ferramentas de desenvolvimento PHP)
+.buildpath
+
+# plugin sbteclipse
+.alvo
+
+# Plug-in Tern
+.tern-projeto
+
+#Plugin TeXlipse
+.texlipse
+
+# STS (Suíte de ferramentas Spring)
+.springBeans
+
+# Recomendadores de código
+.recomendadores/
+
+# Processamento de anotação
+.apt_generated/
+.apt_generated_test/
+
+# Scala IDE específico (desenvolvimento Scala e Java para Eclipse)
+.cache-principal
+.scala_dependencies
+.planilha
+
+# Remova o comentário desta linha se desejar ignorar o arquivo de descrição do projeto.
+# Normalmente, este arquivo seria rastreado se contivesse configurações de compilação/dependência:
+#.projeto
+
+###Eclipse Patch###
+# Ferramentas de inicialização Spring
+.sts4-cache/
+
+###Java###
+#Arquivo de classe compilado
+*.aula
+
+# Arquivo de log
+*.registro
+
+#Arquivos BlueJ
+*.ctxt
+
+# Ferramentas móveis para Java (J2ME)
+.mtj.tmp/
+
+# Arquivos de pacote #
+*.jar
+*.guerra
+*.nar
+*.orelha
+*.fecho eclair
+*.tar.gz
+*.rar
+
+# logs de falhas de máquinas virtuais, consulte http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+repetição_pid*
+
+# Fim de https://www.toptal.com/developers/gitignore/api/java,eclipse
